@@ -2,6 +2,7 @@
 使用预训练模型Ernie3.0进行3场景10情绪分类
 
 代码来自：https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/text_classification/multi_class
+
 训练数据为Chat-GPT、文心一言、星火大模型、智谱AI、紫东太初这些模型生成的数据
 
 问题清单：
